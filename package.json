@@ -48,7 +48,7 @@
     "gifler": "git://github.com/themadcreator/gifler.git#v0.3.0",
     "gsap": "^1.20.2",
     "ncp": "^2.0.0",
-    "nib": "^1.1.2",
+    "nib": "^1.2.0",
     "openssl": "^1.1.0",
     "stylus": "^0.54.5"
   },
